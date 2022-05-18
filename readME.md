@@ -13,5 +13,5 @@
 <h3>Below is the DELETE Request Response</h3>
 <img src="delete-response.jpg" width="800">
 
-<h3>Below is the DELETE Request Response</h3>
+<h3>Below is the UPDATE Request Response</h3>
 <img src="update-response.jpg" width="800">
